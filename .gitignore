@@ -1,0 +1,25 @@
+.DS_Store
+
+# Root-level env files
+.env
+.env.local
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.svelte-kit/
+
+# Database files
+*.db
+*.db-wal
+*.db-shm
+
+# Local runtime data
+data/
+
+# App-specific env files
+backend/.env
+frontend/.env
