@@ -272,4 +272,6 @@ spur/
 ---
 
 ## Screenshots
+<img width="737" height="845" alt="Spur AI Chatbot" src="https://github.com/user-attachments/assets/7964d66d-0569-443d-8dba-63c518209fd4" />
+<img width="745" height="857" alt="Screenshot 2026-06-09 170059" src="https://github.com/user-attachments/assets/1625254f-97de-4400-9bbc-9377e47e08e7" />
 
