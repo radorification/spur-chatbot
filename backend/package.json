@@ -1,6 +1,9 @@
 {
   "name": "spur-chat-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "description": "AI live chat backend for Spur take-home",
   "scripts": {
     "dev": "tsx watch src/index.ts",
