@@ -30,8 +30,8 @@ A mini AI-powered customer support chat widget for a fictional e-commerce store
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/spur-chat.git
-cd spur-chat
+git clone https://github.com/radorification/spur-chatbot.git
+cd spur-chatbot
 ```
 
 ### 2. Configure environment variables
@@ -41,7 +41,7 @@ cd spur-chat
 ```bash
 cd backend
 cp .env.example .env
-# Open .env and fill in GEMINI_API_KEY=AIza...
+# Open .env and fill in GEMINI_API_KEY=AQ...
 # Get a free key at https://aistudio.google.com/app/apikey
 ```
 
@@ -61,7 +61,7 @@ cd backend
 npm install
 
 # frontend
-cd ../frontend
+cd frontend
 npm install
 ```
 
@@ -268,3 +268,8 @@ spur/
 - **Frontend:** Vercel or Netlify work well with `frontend` as the root directory.
 - Set `VITE_API_URL` on the frontend to your deployed backend URL.
 - Set `CORS_ORIGIN` on the backend to your deployed frontend URL.
+
+---
+
+## Screenshots
+
